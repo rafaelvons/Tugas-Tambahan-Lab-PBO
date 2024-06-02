@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Thread_Join/Thread_Join.iml" filepath="$PROJECT_DIR$/Thread_Join/Thread_Join.iml" />
       <module fileurl="file://$PROJECT_DIR$/Thread_Start/Thread_Start.iml" filepath="$PROJECT_DIR$/Thread_Start/Thread_Start.iml" />
       <module fileurl="file://$PROJECT_DIR$/Tugas-Tambahan-Lab-PBO.iml" filepath="$PROJECT_DIR$/Tugas-Tambahan-Lab-PBO.iml" />
     </modules>
